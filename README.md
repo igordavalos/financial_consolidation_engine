@@ -73,5 +73,3 @@ uvicorn app.main:app --reload
 ## License and use
 
 This repository is provided for educational purposes only. There is no warranty; the author is not responsible for any misuse.
-
-**_ End of README _**
