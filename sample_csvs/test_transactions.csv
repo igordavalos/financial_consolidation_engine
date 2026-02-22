@@ -1,0 +1,4 @@
+date,account_id,amount,description
+2026-01-31,4000,100.00,Test revenue 1
+2026-01-31,5000,50.00,Test revenue 2
+2026-02-01,4000,200.50,Test revenue 3
